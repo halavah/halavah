@@ -1,4 +1,0 @@
----
-title: Tag
-layout: tag
----
