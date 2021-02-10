@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://halavah.github.io/
+url: https://halavah.tk
 root: /
 permalink: :title.html
 permalink_defaults:
@@ -104,6 +104,6 @@ theme: Chic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'https://github.com/halavah/halavah.git'
+  repo: 'git@github.com:halavah/halavah.git'
   branch: master
   message: 
