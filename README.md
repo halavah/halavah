@@ -1,4 +1,4 @@
-![](https://github.com/halavah/halavah/blob/master/images/mario.png?raw=true)
+![](https://github.com/halavah/halavah/blob/master/images/mario2.png?raw=true)
 ## Hi there 👋
 
 - 🔭 I’m a Student
