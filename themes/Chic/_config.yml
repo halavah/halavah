@@ -3,7 +3,7 @@ navname: Halavah's Blog
 
 # navigatior items
 nav:
-  Posts: /archives
+  Archives: /archives
   Categories: /category
   Tags: /tag
   About: /about
