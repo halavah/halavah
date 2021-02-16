@@ -1,4 +1,3 @@
-![](https://github.com/halavah/halavah/blob/master/images/header.png?raw=true)
 ## Hi there 👋
 
 - 🔭 I’m a Student
