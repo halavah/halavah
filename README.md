@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=halavah&theme=flat&show_icons=true" alt="logo" align="right" style="margin: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=halavah&theme=flat" alt="logo" align="right" style="margin: auto;"/>
 </p>
 
 - 🔭 I’m a Student
