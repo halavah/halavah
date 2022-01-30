@@ -9,6 +9,4 @@
 
 [![halavah's github stats](https://github-readme-stats.vercel.app/api?username=halavah&theme=flat&column=3)](https://github.com/halavah)
 
-<div align=right >
-	<img src=https://img-blog.csdnimg.cn/20200822014538211.png width=240 height=500 />
-</div>
+
