@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m a Worker
+- 🔭 I’m a Coder
 - 🌱 I’m currently learning Java
 - ⚡ Hobby: Play / Surfing
 - ⛵ Motto: Don't let joy take you down !
