@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>一屏只留一件事</title>
+  <defs>
+    <linearGradient id="focus" x1="22" y1="32" x2="42" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BBA2FF"/><stop offset="1" stop-color="#9BE9F3"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="15" fill="#101824" stroke="#40516A" stroke-width="2"/>
+  <rect x="13" y="16" width="38" height="32" rx="7" fill="#192537" stroke="#ACB9CD" stroke-width="3"/>
+  <path d="M23 32H41" stroke="url(#focus)" stroke-width="6" stroke-linecap="round"/>
+</svg>
