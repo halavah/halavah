@@ -1,0 +1,10 @@
+{
+  "name": "halavah-profile",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Standalone personal introduction for GitHub Pages.",
+  "scripts": {
+    "build": "node scripts/check-personal-page.mjs",
+    "check:page": "node scripts/check-personal-page.mjs"
+  }
+}

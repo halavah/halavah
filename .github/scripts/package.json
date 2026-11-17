@@ -1,0 +1,6 @@
+{
+  "name": "halavah-contribution-artwork",
+  "private": true,
+  "type": "module",
+  "dependencies": { "generate-snake-animation": "3.5.0" }
+}

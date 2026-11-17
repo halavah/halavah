@@ -1,0 +1,6 @@
+
+# Local contribution-artwork dependencies
+node_modules/
+
+# Private history backups must never enter the repository
+*.bundle
